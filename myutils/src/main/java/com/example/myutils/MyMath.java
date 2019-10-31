@@ -29,4 +29,12 @@ public class MyMath {
 
         }
     }
+
+    public static int Plu3(int a, int b, int c) {
+
+        return a + b + c;
+
+    }
+
+
 }
